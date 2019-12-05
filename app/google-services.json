@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517653746197",
+    "firebase_url": "https://learngerman-7566f.firebaseio.com",
+    "project_id": "learngerman-7566f",
+    "storage_bucket": "learngerman-7566f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517653746197:android:2139585c40fec8398eb41c",
+        "android_client_info": {
+          "package_name": "com.example.learngerman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517653746197-7li7nmsqo6bet4ihcns1ugb8v2d7gkib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learngerman",
+            "certificate_hash": "17267f57445c0891fe1223a8b40dcdfa60cd05ee"
+          }
+        },
+        {
+          "client_id": "517653746197-eulr8lugl013hf1te1ht5507n3c7kdcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYanxMD_PHQu8KJg4OERsmD628kQH5h24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517653746197-eulr8lugl013hf1te1ht5507n3c7kdcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
