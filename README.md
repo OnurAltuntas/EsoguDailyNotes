@@ -8,8 +8,11 @@
 
 > android studio, firebase realtime
 
-![share-note](https://user-images.githubusercontent.com/53194850/91460195-34faae80-e890-11ea-8c6d-fd4c6c043523.jpg | width=100)
-![share-notes](https://user-images.githubusercontent.com/53194850/91460200-36c47200-e890-11ea-8fd6-09f9dc89bbd2.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/53194850/91460195-34faae80-e890-11ea-8c6d-fd4c6c043523.jpg" data-canonical-src="https://user-images.githubusercontent.com/53194850/91460195-34faae80-e890-11ea-8c6d-fd4c6c043523.jpg" width="200" height="400" />
+
+
+<img src="https://user-images.githubusercontent.com/53194850/91460200-36c47200-e890-11ea-8fd6-09f9dc89bbd2.jpg" data-canonical-src="https://user-images.githubusercontent.com/53194850/91460200-36c47200-e890-11ea-8fd6-09f9dc89bbd2.jpg" width="200" height="400" />
+
 
 
 ## Installation
