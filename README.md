@@ -1,5 +1,5 @@
 
-# onuraltuntasdev
+# esogu daily note
 - You can visit from this link --> https://drive.google.com/file/d/1lkpLzLCbPLj1_3EPJUTg9qHhZtTFLY2M/view?usp=sharing/
 
 > This is a lecture note sharing android app.
